@@ -5,7 +5,7 @@ Implement simple [TODO app](http://todomvc.com/examples/vanillajs/) working as d
 
 You can check this app here:
 
-* [DEMO](https://bogdandobak.github.io/TodoApp/#/all)
+* [DEMO](https://bogdandobak.github.io/Todo-App/#/all)
 
 ## Description
 
