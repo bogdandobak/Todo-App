@@ -1,7 +1,7 @@
 
 # React ToDo App
 
-Implement simple [TODO app](http://todomvc.com/examples/vanillajs/) working as described below.
+Implement [TODO app](http://todomvc.com/examples/vanillajs/) working as described below.
 
 You can check this app here:
 
