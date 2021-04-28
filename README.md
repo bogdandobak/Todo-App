@@ -27,8 +27,6 @@ Made this app using React and it Hooks, Router. Use custom React useLocalStorage
 
 * Fork and clone this repository
 * Run `npm install` in your terminal
-* Run `npm install react-router-dom` in your terminal
-* Run `npm install react-router-hoc` in your terminal
 * Run `npm start` to start a local server
 
 ## Troubleshooting
